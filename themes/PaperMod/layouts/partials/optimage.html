@@ -1,0 +1,2 @@
+{{ $ImageLink := partial "optimage_link.html" .Destination  }}
+<img loading="lazy" src="{{ $ImageLink | safeURL }}" alt="{{ .Params.blogtitle | default .Title }}" title="{{ .Params.blogtitle | default .Title }}"  />
