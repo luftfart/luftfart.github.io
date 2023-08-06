@@ -10,15 +10,15 @@ params:
 
     socialIcons: # optional
         - name: "youtube"
-          url: "https://www.youtube.com/channel/UCjMJeOCEAG2XFtd9JvZwomw"
+          url: "https://www.youtube.com/@minfuel"
         - name: "twitter"
-          url: "https://twitter.com/aryansawhney17"
+          url: "https://twitter.com/minfuel"
         - name: "kofi" 
-          url: "https://buymeacoffee.com/sawhney17"
+          url: "https://buymeacoffee.com/minfuel"
         - name: "rss"
           url: "https://aryansawhney.com/index.xml"
     ShowReadingTime: true
-    author: "Flymek Student"
+    author: "Flymekanikk student"
 
 outputs:
     home:
