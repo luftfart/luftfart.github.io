@@ -1,16 +1,14 @@
-baseURL: https://example.com/
-languageCode: en-us
-title: Author Name
+baseURL: https://luftfart.github.io/
+languageCode: nb-NO
+title: Luftfart
 theme: "PaperMod"
 
 params:
     homeInfoParams:
-        Title: Hello World 👋
-        Content: This is a sample hugo template
+        Title: Vil du lære om fly ✈️👋?
+        Content: Kule ting om hvordan fly fungerer, forskjellige flytyper og NYHETER OM REISE OG LUFTFART 
 
     socialIcons: # optional
-        - name: "github"
-          url: "https://github.com/sawhney17"
         - name: "youtube"
           url: "https://www.youtube.com/channel/UCjMJeOCEAG2XFtd9JvZwomw"
         - name: "twitter"
@@ -20,7 +18,7 @@ params:
         - name: "rss"
           url: "https://aryansawhney.com/index.xml"
     ShowReadingTime: true
-    author: "One Nice Person"
+    author: "Flymek Student"
 
 outputs:
     home:
