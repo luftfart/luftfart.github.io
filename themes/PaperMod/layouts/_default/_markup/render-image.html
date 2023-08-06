@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} />
+>>>>>>> 7da834d68ba2ccf2a742b374638e37b7abdafa71
 
 {{ if eq (lower (path.Ext .Destination)) ".mp4" }}
     {{ $videoResource := resources.GetMatch .Destination | fingerprint }}
