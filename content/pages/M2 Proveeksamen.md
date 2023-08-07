@@ -12,6 +12,7 @@ title: M2 Prøveeksamen
 categories:
 lastMod: 2023-08-06
 ---
+
 book:: ![M2 (Hefte).pdf](/assets/m2_(1)_1685356449063_0.pdf)
 
 word:: [(OLD) Fysikk ](../assets/H2_1675182183661_0.docx)
