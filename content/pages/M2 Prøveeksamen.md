@@ -7,9 +7,9 @@ tags:
 date: 2023-08-07
 coverimage: /assets/image_1691305478432_0.png
 word: 
-- [Periodeplan (M2)](../assets/Periodeplan_M2_2FLA_h2022v2023_49_25_(1)_1679476633598_0.docx)
+- /assets/Periodeplan_M2_2FLA_h2022v2023_49_25_(1)_1679476633598_0.docx
 book: 
-- ![M02 (EASA) B1](../assets/M02_B1_E_1679476249743_0.pdf)
+- /assets/M02_B1_E_1679476249743_0.pdf
 title: M2 Prøveeksamen
 categories:
 lastMod: 2023-08-06
