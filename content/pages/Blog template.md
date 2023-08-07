@@ -3,13 +3,18 @@ title: Blog template
 tags:
 categories:
 date: 2023-08-06
-lastMod: 2023-08-06
+lastMod: 2023-08-07
 ---
 # Why is it important
 
-{{< youtube w7Ft2ymGmfc >}}
+  + {{< youtube LzSTRnqcT4U >}}
 
+  + {{< youtube idRJZxVafY0 >}}
 
-{{video https://youtu.be/6pV2IF0fgKY}}
+  + ### Other...
 
-  - {{video https://youtu.be/6pV2IF0fgKY}}
+  + {{video https://www.youtube.com/watch?v=LzSTRnqcT4U}}
+
+  + {{video https://www.youtube.com/watch?v=idRJZxVafY0&list=PLrAxI-YVFPOr_kAo8oNELQaa2pFqoJGRk&index=5}}
+
+  + 
