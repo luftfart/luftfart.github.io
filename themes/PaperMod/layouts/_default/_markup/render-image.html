@@ -1,6 +1,5 @@
-{{ if eq (lower (path.Ext .Destination)) ".mp4" }}
-    {{ $videoResource := resources.GetMatch .Destination }}
+{{ if $videoResource }}
     <video class="post-video" src="{{ $videoResource.RelPermalink }}" controls ></video>
 {{ else }}
-    {{ partial "optimage.html" (dict "Destination" .Destination "Title" .Text) }}
+    <!-- Handle the case when $videoResource is nil -->
 {{ end }}
